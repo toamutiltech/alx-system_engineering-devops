@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # This is a script to display Best School 10 times
 var=1
-until [ $var -ge 10 ]
+until [ $var -ge 11 ]
 do
 	echo "Best School"
         (( var++ ))
