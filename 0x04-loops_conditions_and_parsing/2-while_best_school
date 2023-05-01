@@ -6,3 +6,4 @@ do
         echo "Best School"
         var=$(( $var + 1 ))
 done
+export var
