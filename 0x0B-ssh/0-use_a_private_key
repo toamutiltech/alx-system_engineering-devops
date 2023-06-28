@@ -4,4 +4,4 @@
 
 privatekey="~/.ssh/school"
 
-ssh $privatekey ubuntu@18.207.140.220
+ssh -i $privatekey ubuntu@100.26.247.104
