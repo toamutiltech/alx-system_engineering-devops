@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-# ssh connection from ssh/school directory
+# ssh connection from ssh/school direct
 
-privatekey="~/.ssh/school"
-
-ssh -i $privatekey ubuntu@100.26.247.104
+ssh -i ~/.ssh/school ubuntu@100.26.247.104
